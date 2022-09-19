@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Team project solution for cse341",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACondori95/l02-team-project.git"
+  },
+  "author": "Alvaro Condori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACondori95/l02-team-project/issues"
+  },
+  "homepage": "https://github.com/ACondori95/l02-team-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
