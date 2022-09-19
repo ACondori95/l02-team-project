@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "firstName": "Milagro",
+      "lastName": "Ayarde",
+      "email": "miliayarde@gmail.com",
+      "favouriteColor": "blue",
+      "birthday": "04/28/2000"
+    },
+    {
+      "firstName": "Nico",
+      "lastName": "Condori",
+      "email": "nicocondori@gmail.com",
+      "favouriteColor": "black",
+      "birthday": "10/03/1997"
+    },
+    {
+      "firstName": "Alvaro",
+      "lastName": "Condori",
+      "email": "alvarocondori@gmail.com",
+      "favouriteColor": "green",
+      "birthday": "05/10/1995"
+    }
+  ]
+}
